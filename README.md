@@ -28,5 +28,6 @@
 ![Paquete](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/2a7f632ebff755c054db66bb155195f422b53164/6.PNG)
 
 * Paso 7: Ahora con el paquete instalado, ya podremos comenzar con el Docker y su tutorial con tarda casi 2 minutos y despue sya tendremos el Docker instalado.
-* ![DOCKER](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/2a7f632ebff755c054db66bb155195f422b53164/6.PNG)
+
+![DOCKER](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/07e720d9caa77f65c2c76bcf2e2b66228bed4625/7.PNG)
 
