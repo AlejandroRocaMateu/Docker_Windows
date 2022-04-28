@@ -19,3 +19,7 @@
 
 ![Aviso](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/5caf712571466f946b076b617f5e208ad1e0be7f/4.PNG)
 
+* Paso 5: Antes de instalar el Kernel, nos iremos  nuestro powerShell para ver que version de WSL tenemos en nuestro Windows, pondremo este codigo a continuacion:
+![Codigo](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/5caf712571466f946b076b617f5e208ad1e0be7f/4.PNG)
+
+
