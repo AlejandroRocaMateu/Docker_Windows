@@ -10,4 +10,4 @@
 
 
 * Paso 3: Cuando se acabe de descargar, abriremos el archivo descargado, una vez dentro nos pedire reiniciar el sistema y le daremo a restart
-![Reiniciar](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/f7cb1c8fcc479ff3cc5d1ee25a04a05b017feb79/2.PNG)
+![Reiniciar](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/85efcef8e746905a0833fd28eba1605bb63e57d7/3.PNG)
