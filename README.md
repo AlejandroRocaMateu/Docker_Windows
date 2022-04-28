@@ -14,3 +14,8 @@
 * Paso 3: Cuando se acabe de descargar, abriremos el archivo descargado, una vez dentro nos pedire reiniciar el sistema y le daremos a restart
 
 ![Reiniciar](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/85efcef8e746905a0833fd28eba1605bb63e57d7/3.PNG)
+
+* Paso 4: Una vez ya reiniciado el sistema, nos enviara un mensaje la aplicacion del Docker, dicinedo que la instalacion no esta completa y hay que instalarse el Linux Kernel y despues tendremos que reiniciar el sistema otra vez.
+
+![Aviso](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/85efcef8e746905a0833fd28eba1605bb63e57d7/3.PNG)
+
