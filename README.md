@@ -23,4 +23,7 @@
 
 ![Codigo](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/41a8966bc1267043e7c39528eb81e41a3076309f/5.PNG)
 
+* Paso 6: Seguramente aun nos faltan mas cosas para instalar el Kernel, asi que nos iremos a la documentacion y nos iremos al enlace donde esta el paquete de actualizacion de Kernel de WSL 2 para Windows
+
+![Paquete](https://github.com/AlejandroRocaMateu/Docker_Windows/blob/41a8966bc1267043e7c39528eb81e41a3076309f/5.PNG)
 
